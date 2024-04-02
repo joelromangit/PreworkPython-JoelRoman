@@ -1,0 +1,3 @@
+#README
+Casi todos los ejercicios están solucionados teniendo en cuenta que la entrada solicitada será la correcta...
+... ya sea en formato y valor
